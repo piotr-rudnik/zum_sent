@@ -26,6 +26,11 @@ Pierwsze 3 modele znajdują się w folderze `models`.
 
 
 ## Użycie 
+W projekcie jest zawarty plik glovo50d.zip który posiada zkompresowany embedding Glove 50d. Należy go rozpakować w folderze głównym.
+```
+unzip glovo50d.zip
+```
+
 Do zarządzania zależnościami użyte zostało narzędzie poetry (https://python-poetry.org/)
 
 Aby zainstalować zależności należy wykonać polecenie:
