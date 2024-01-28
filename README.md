@@ -1,4 +1,6 @@
 
+
+
 ## Zbiór danych
 W projekcie został użyty zbiór danych z Kaggle - ChatGPT sentiment analysis
 https://www.kaggle.com/datasets/charunisa/chatgpt-sentiment-analysis/
@@ -12,6 +14,9 @@ Podział klas:
 - 26% - good
 
 Dane zawarte są w pliku `data.csv` w folderze głównym
+
+## Notebook 
+Cała treść kodu i analizy znajduje się w pliku NLP_praca_domowa.ipynb
 
 ## Modele 
 1. LSTM - lstm.pth - model LSTM z warstwą embedding - wynik ok. 78%
